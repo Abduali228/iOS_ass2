@@ -1,0 +1,851 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:title" content=""/>
+    <meta property="og:url" content="https://craftdepot.ru/craft-depot-education/craftdepot-education-test/"/>
+    <meta property="og:site_name" content="Craftdepot"/>
+    <meta name="yandex-verification" content="87e63b9c4f1f7018" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N5SKCJ7');</script>
+    <!-- End Google Tag Manager -->
+
+    
+
+
+    <meta property="og:type" content="article"/>
+    <meta property="og:image:width" content="3900" />
+    <meta property="og:image:height" content="2100" />
+    <meta property="og:image" content="https://craftdepot.ru/media/images_for_network_share/share_image_journalpage_431.png?720"/>
+    <meta property="og:description" content="Считаете, что хорошо разбираетесь в крафтовом пиве? Проверьте свои знания с помощью теста от Craft Depot Education и выясните, можете ли вы называться пивным сомелье"/>
+
+    <script>
+    window._io_config = window._io_config || {};
+    window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+    window._io_config["0.2.0"].push({
+        page_url: "https://craftdepot.ru/craft-depot-education/craftdepot-education-test/",
+        page_url_canonical: "https://craftdepot.ru/craft-depot-education/craftdepot-education-test/",
+        page_title: "Beer Enthusiast: тест на знание особенностей крафтового пива",
+        page_type: "article",
+        page_language: "ru",
+        article_authors:[],
+        article_categories: ["Craft Depot Education"],
+        article_publication_date: "Mon, 17 Dec 2018 19:45:31 +0300"
+    });
+    </script>
+    
+    <link rel="stylesheet" href="/static/styles/vendor.9752c0374b99.css">
+    <link rel="stylesheet" href="/static/styles/main.cff45104b18e.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/static/img/favicon.d38eec3f6561.ico">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/static/img/favicon.d38eec3f6561.ico">
+    
+    <title>Beer Enthusiast: тест на знание особенностей крафтового пива - CraftDepot</title>
+    
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter48792977 = new Ya.Metrika({
+                        id:48792977,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true,
+                        webvisor:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/48792977" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    <script async src="https://cdn.onthe.io/io.js/AIPHYws09r2D"></script>
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5SKCJ7"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="dark"></div>
+    <header>
+    <div class="header">
+        <div class="header__burger">
+            <div class="fa fa-bars"></div>
+        </div>
+        <div class="header__logo">
+            <a href="/">
+                <img src="/static/img/craftdepot-logo.d87577fb648e.svg" alt="Craftdepot logo">
+            </a>
+        </div>
+
+        <div class="header__menu">
+            <ul>
+                <li><a href="/pages/about_association/ALL/" class="header__link">Об ассоциации</a></li>
+                <li><a href="/pages/beer/" class="header__link">Пиво</a></li>
+                <li><a href="/bars/" class="header__link">Бары</a></li>
+                
+                    <li><a href="/craft-depot-fest/" class="header__link">Craft Depot Fest</a></li>
+                
+                    <li><a href="/pena-dnej/" class="header__link">Культура</a></li>
+                
+                    <li><a href="/craft-depot-education/" class="header__link">Craft Depot Education</a></li>
+                
+                    <li><a href="/foodpairing/" class="header__link">Фудпейринг</a></li>
+                
+                    <li><a href="/holivarka/" class="header__link">Люди</a></li>
+                
+                    <li><a href="/craftdepotlife/" class="header__link">Craft Depot Life</a></li>
+                
+                    <li><a href="/barometr/" class="header__link">Барометр</a></li>
+                
+                    <li><a href="/podcasts/" class="header__link">Подкасты</a></li>
+                
+            </ul>
+        </div>
+        <div class="header__search">
+            <i class="fa fa-search"></i>
+        </div>
+        <div class="header__search-container">
+            <div class="header__body">
+                <div class="header__body-search">
+                    <input type="text" class="header__body-input" name="search"  placeholder="ПОИСК">
+                    <i class="fa fa-search header__body-search-icon"></i>
+                </div>
+                
+                <div class="header__body-tabs">
+                    <a class="header__body-tabs-filter" href="#SEARCH_ALL">
+                        Все(<span>1477</span>)
+                    </a>
+                    <a class="header__body-tabs-filter" href="#SEARCH_BEER">
+                        Пиво(<span>103</span>)
+                    </a>
+                    <a class="header__body-tabs-filter" href="#SEARCH_BREW">
+                        Пивоварни(<span>67</span>)
+                    </a>
+                    <a class="header__body-tabs-filter" href="#SEARCH_TEXT">
+                        Тексты(<span>1307</span>)
+                    </a>
+                </div>
+
+                <div class="header__body-close">
+                    <img src="/static/img/header/close-button.0086f02312f1.svg" alt="Header close">
+                </div>
+                <div class="header__body-container">
+                    <div class="header__body-items">
+                    </div>
+                    <div class="header__body-next-page">&nbsp;</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="header-inner">
+        <div class="header-inner__logo">
+            <img src="/static/img/header/header-logo-mobile.e4a96ae40fc3.png" alt="Header Logo">
+        </div>
+        <div class="header-inner__menu">
+            <ul>
+                <li><a href="/pages/about_association/ALL/" class="header-inner__link">Об ассоциации</a></li>
+                <li><a href="/pages/experts/" class="header-inner__link header-inner__link-inherit">Экспертный совет</a></li>
+
+                <li><a href="/pages/beer/" class="header-inner__link">Пиво</a></li>
+                <li><a href="/bars/" class="header-inner__link">Бары</a></li>
+                
+                <li>
+                    <a href="/craft-depot-fest/" class="header-inner__link">Craft Depot Fest</a>
+                </li>
+                
+                <li>
+                    <a href="/pena-dnej/" class="header-inner__link">Культура</a>
+                </li>
+                
+                <li>
+                    <a href="/craft-depot-education/" class="header-inner__link">Craft Depot Education</a>
+                </li>
+                
+                <li>
+                    <a href="/foodpairing/" class="header-inner__link">Фудпейринг</a>
+                </li>
+                
+                <li>
+                    <a href="/holivarka/" class="header-inner__link">Люди</a>
+                </li>
+                
+                <li>
+                    <a href="/craftdepotlife/" class="header-inner__link">Craft Depot Life</a>
+                </li>
+                
+                <li>
+                    <a href="/barometr/" class="header-inner__link">Барометр</a>
+                </li>
+                
+                <li>
+                    <a href="/podcasts/" class="header-inner__link">Подкасты</a>
+                </li>
+                
+            </ul>
+        </div>
+        <div class="header-inner__close"></div>
+
+    </div>
+    
+</header>
+
+
+<div data-io-article-url="https://craftdepot.ru/craft-depot-education/craftdepot-education-test/">
+  <div class="inner__page">
+    <div class="page__container page__container--inner">
+      <div class="page__subtitle">
+          Craft Depot Education
+      </div>
+      <div class="inner__page-title">Beer Enthusiast: тест на знание особенностей крафтового пива</div>
+      <div class="inner__page-main-background">
+              <img src='/media/original_images/test23x.png' />
+        </div>
+      <div class="inner__page-content">
+        <div class="inner__content-preview">
+          <div class="rich-text"><p>Считаете, что хорошо разбираетесь в крафтовом пиве? Проверьте свои знания с помощью теста от Craft Depot Education и выясните, можете ли вы называться пивным сомелье</p></div>
+        </div>
+
+           
+
+
+        
+          <div class="test">
+            
+            
+
+<div id="test-top"></div>
+
+    <form action="/test-email-check/" method="post" id="email-form">
+      
+         <div class="text"><div class="rich-text"><p></p><p>Тест CraftDepot Education: Beer Enthusiast рассчитан на широкую аудиторию, прежде всего любителей пива, но также позволяет уже работающим в крафтовой пивной индустрии проверить свои знания. Иными словами, тест адресуется тем, кто уже открыл для себя такое явление, как «крафтовое пиво».<br/></p><p><b>Тест идёт 15 минут.</b> 15 из 20 правильных – успех, 14 или меньше– попробуйте ещё раз. После двух попыток тест будет недоступен неделю. При закрытии браузера попытка будет использована, но результат – не засчитан. То же самое произойдёт, если время истечёт до прохождения последнего, 20-го вопроса.<br/></p><p>Пожалуйста, указывайте в регистрационной форме ваши реальные имя, фамилию, email, так как по окончанию тестирования, в случае успешного результата, вы получите сертификат на то имя, которое было указано при регистрации.<br/></p><p>Ниже вы сможете ознакомиться с полным текстом правил, а также списком рекомендованной литературы.<br/></p><hr/><p><a href="/documents/6/Beer_Enthusiast.pdf">Craft Depot Education: Beer Enthusiast. Правила тестирования и рекомендованная литература</a></p></div></div>
+      
+    <div id="form-top"></div>
+     <div class="title"><p>Ваши данные</p></div>
+      <input type="hidden" name="csrfmiddlewaretoken" value="v05C3J3Q691soC1U3WntcReJygoqphQTDDN4MN5zALhb0n18hMfHNHCxauFaOMwB">
+      
+        
+         <div class="no-style">
+        
+              
+              <input type="hidden" name="test" value="1" id="id_test">
+              
+          </div>
+      
+        
+         <div class="fieldWrapper">
+        
+              
+              <input type="text" name="name" placeholder="ваше имя" required id="id_name">
+              
+          </div>
+      
+        
+         <div class="fieldWrapper">
+        
+              
+              <input type="email" name="email" placeholder="ваш e-mail" required id="id_email">
+              
+          </div>
+      
+        <div class="digest__form-background">
+            <button data-scroll-to="form-top" class="button button__regular digest__submit" type="submit">начать</button>
+        </div>
+        <div class="policy">
+            <label class="label">
+                <input required type="checkbox">
+                <span class="checkmark"></span>
+            </label>
+            <a id="show-policy">я согласен с политикой конфидициальности</a>
+        </div>
+        <div class="policy-inner">
+                
+    <div class="rich-text"><ol><li><b>Общие положения</b><br/>Настоящая политика обработки персональных данных составлена в соответствии с требованиями Федерального закона от 27.07.2006. №152-ФЗ «О персональных данных» и определяет порядок обработки персональных данных и меры по обеспечению безопасности персональных данных Асcоциации Крафтовых Пивоварен (далее – Оператор).<br/><ol><li>Оператор ставит своей важнейшей целью и условием осуществления своей деятельности соблюдение прав и свобод человека и гражданина при обработке его персональных данных, в том числе защиты прав на неприкосновенность частной жизни, личную и семейную тайну.</li><li>Настоящая политика Оператора в отношении обработки персональных данных (далее — Политика) применяется ко всей информации, которую Оператор может получить о посетителях веб-сайта http://craftdepot.ru.<br/></li></ol></li><li><b>Основные понятия , используемые в Политике<br/></b><ol><li>Автоматизированная обработка персональных данных — обработка персональных данных с помощью средств вычислительной техники;</li><li>Блокирование персональных данных — временное прекращение обработки персональных данных (за исключением случаев, если обработка необходима для уточнения персональных данных);</li><li>Веб-сайт – совокупность графических и информационных материалов, а также программ для ЭВМ и баз данных, обеспечивающих их доступность в сети интернет по сетевому адресу http://craftdepot.ru;</li><li>Информационная система персональных данных — совокупность содержащихся в базах данных персональных данных, и обеспечивающих их обработку информационных технологий и технических средств;</li><li>Обезличивание персональных данных — действия, в результате которых невозможно определить без использования дополнительной информации принадлежность персональных данных конкретному Пользователю или иному субъекту персональных данных;</li><li>Обработка персональных данных – любое действие (операция) или совокупность действий (операций), совершаемых с использованием средств автоматизации или без использования таких средств с персональными данными, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (распространение, предоставление, доступ), обезличивание, блокирование, удаление, уничтожение персональных данных;</li><li>Оператор – государственный орган, муниципальный орган, юридическое или физическое лицо, самостоятельно или совместно с другими лицами организующие и (или) осуществляющие обработку персональных данных, а также определяющие цели обработки персональных данных, состав персональных данных, подлежащих обработке, действия (операции), совершаемые с персональными данными;</li><li>Персональные данные – любая информация, относящаяся прямо или косвенно к определенному или определяемому Пользователю веб-сайта http://craftdepot.ru;</li><li>Пользователь – любой посетитель веб-сайта http://craftdepot.ru;</li><li>Предоставление персональных данных – действия, направленные на раскрытие персональных данных определенному лицу или определенному кругу лиц;</li><li>Распространение персональных данных – любые действия, направленные на раскрытие персональных данных неопределенному кругу лиц (передача персональных данных) или на ознакомление с персональными данными неограниченного круга лиц, в том числе обнародование персональных данных в средствах массовой информации, размещение в информационно-телекоммуникационных сетях или предоставление доступа к персональным данным каким-либо иным способом;</li><li>Трансграничная передача персональных данных – передача персональных данных на территорию иностранного государства органу власти иностранного государства, иностранному физическому или иностранному юридическому лицу;</li><li>Уничтожение персональных данных – любые действия, в результате которых персональные данные уничтожаются безвозвратно с невозможностью дальнейшего восстановления содержания персональных данных в информационной системе персональных данных и (или) результате которых уничтожаются материальные носители персональных данных.<br/></li></ol></li><li><b>Оператор может обрабатывать следующие персональные данные Пользователя<br/></b><ol><li>Фамилия, имя, отчество;</li><li>Электронный адрес;</li><li>Также на сайте происходит сбор и обработка обезличенных данных о посетителях (в т.ч. файлов «cookie») с помощью сервисов интернет-статистики (Яндекс Метрика и Гугл Аналитика и других).</li><li>Вышеперечисленные данные далее по тексту Политики объединены общим понятием Персональные данные.<br/></li></ol></li><li><b>Цели обработки персональных данных<br/></b><ol><li>Цель обработки персональных данных Пользователя — информирование Пользователя посредством отправки электронных писем.</li><li>Также Оператор имеет право направлять Пользователю уведомления о новых продуктах и услугах, специальных предложениях и различных событиях. Пользователь всегда может отказаться от получения информационных сообщений, направив Оператору письмо на адрес электронной почты info@craftdepot.ru с пометкой «Отказ от уведомлениях о новых продуктах и услугах и специальных предложениях».</li><li>Обезличенные данные Пользователей, собираемые с помощью сервисов интернет-статистики, служат для сбора информации о действиях Пользователей на сайте, улучшения качества сайта и его содержания.<br/></li></ol></li><li><b>Правовые основания обработки персональных данных<br/></b><ol><li>Оператор обрабатывает персональные данные Пользователя только в случае их заполнения и/или отправки Пользователем самостоятельно через специальные формы, расположенные на сайте http://craftdepot.ru. Заполняя соответствующие формы и/или отправляя свои персональные данные Оператору, Пользователь выражает свое согласие с данной Политикой.</li><li>Оператор обрабатывает обезличенные данные о Пользователе в случае, если это разрешено в настройках браузера Пользователя (включено сохранение файлов «cookie» и использование технологии JavaScript).<br/></li></ol></li><li><b>Порядок сбора, хранения, передачи и других видов обработки персональных данных<br/></b>Безопасность персональных данных, которые обрабатываются Оператором, обеспечивается путем реализации правовых, организационных и технических мер, необходимых для выполнения в полном объеме требований действующего законодательства в области защиты персональных данных.<br/><ol><li>Оператор обеспечивает сохранность персональных данных и принимает все возможные меры, исключающие доступ к персональным данным неуполномоченных лиц.</li><li>Персональные данные Пользователя никогда, ни при каких условиях не будут переданы третьим лицам, за исключением случаев, связанных с исполнением действующего законодательства.</li><li>В случае выявления неточностей в персональных данных, Пользователь может актуализировать их самостоятельно, путем направления Оператору уведомление на адрес электронной почты Оператора info@craftdepot.ru с пометкой «Актуализация персональных данных».</li><li>Срок обработки персональных данных является неограниченным. Пользователь может в любой момент отозвать свое согласие на обработку персональных данных, направив Оператору уведомление посредством электронной почты на электронный адрес Оператора info@craftdepot.ru с пометкой «Отзыв согласия на обработку персональных данных».<br/></li></ol></li><li><b>Трансграничная передача персональных данных<br/></b><ol><li>Оператор до начала осуществления трансграничной передачи персональных данных обязан убедиться в том, что иностранным государством, на территорию которого предполагается осуществлять передачу персональных данных, обеспечивается надежная защита прав субъектов персональных данных.</li><li>Трансграничная передача персональных данных на территории иностранных государств, не отвечающих вышеуказанным требованиям, может осуществляться только в случае наличия согласия в письменной форме субъекта персональных данных на трансграничную передачу его персональных данных и/или исполнения договора, стороной которого является субъект персональных данных.<br/></li></ol></li><li><b>Заключительные положения<br/></b><ol><li>Пользователь может получить любые разъяснения по интересующим вопросам, касающимся обработки его персональных данных, обратившись к Оператору с помощью электронной почты info@craftdepot.ru.</li><li>В данном документе будут отражены любые изменения политики обработки персональных данных Оператором. Политика действует бессрочно до замены ее новой версией.</li><li>Актуальная версия Политики в свободном доступе расположена в сети Интернет по адресу http://craftdepot.ru/policy.</li></ol></li></ol></div>
+
+            <div class="policy-inner__close"></div>
+        </div>
+    <div class="footer__social">
+    <div class="social__link social__vk">
+        <a href="https://vk.com/public115168293" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="0.000366666667 0 66 0 66 65.9999083 0.000366666667 65.9999083"></polygon>
+                </defs>
+                <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-608.000000, -199.000000)">
+                    <g id="Page-1" transform="translate(608.000000, 199.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M48.5287,45.0714917 L43.6951167,45.139325 C43.6951167,45.139325 42.65745,45.3446583 41.2907,44.4059917 C39.4830333,43.1657417 37.7780333,39.9372417 36.4452,40.359825 C35.0995333,40.786075 35.1426167,43.690075 35.1426167,43.690075 C35.1426167,43.690075 35.1517833,44.3097417 34.8465333,44.6406583 C34.5110333,44.999075 33.8565333,45.0714917 33.8565333,45.0714917 L31.69595,45.0714917 C31.69595,45.0714917 26.9228667,45.3584083 22.7190333,40.981325 C18.1320333,36.207325 14.0831167,26.7344917 14.0831167,26.7344917 C14.0831167,26.7344917 13.8502833,26.1129917 14.10145,25.8132417 C14.3856167,25.4759083 15.16295,25.4529917 15.16295,25.4529917 L20.3357,25.419075 C20.3357,25.419075 20.82245,25.4997417 21.16895,25.7564083 C21.4622833,25.9681583 21.6208667,26.3641583 21.6208667,26.3641583 C21.6208667,26.3641583 22.4568667,28.477075 23.5642,30.3901583 C25.7247833,34.1246583 26.7322,34.939575 27.4646167,34.5417417 C28.53345,33.9559917 28.2117,29.2626583 28.2117,29.2626583 C28.2117,29.2626583 28.2300333,27.558575 27.6763667,26.799575 C27.2418667,26.211075 26.4278667,26.0396583 26.06945,25.9929083 C25.77795,25.9534917 26.2537,25.2769917 26.8761167,24.9726583 C27.8056167,24.5189083 29.4501167,24.492325 31.3888667,24.5124917 C32.9022833,24.5289917 33.34045,24.6224917 33.9326167,24.7654917 C35.7146167,25.196325 35.1096167,26.8582417 35.1096167,30.8466583 C35.1096167,32.123575 34.88045,33.9202417 35.79895,34.5169917 C36.1977,34.7709083 37.1666167,34.554575 39.58845,30.4396583 C40.7352,28.4889917 41.6005333,26.194575 41.6005333,26.194575 C41.6005333,26.194575 41.7893667,25.7866583 42.07995,25.611575 C42.3778667,25.432825 42.7821167,25.4859917 42.7821167,25.4859917 L48.2262,25.4529917 C48.2262,25.4529917 49.8606167,25.2586583 50.1246167,25.996575 C50.4042,26.7711583 49.5132,28.5806583 47.2902833,31.5451583 C43.6373667,36.4117417 43.2358667,35.9561583 46.2636167,38.7694083 C49.16395,41.4561583 49.76345,42.7651583 49.8606167,42.928325 C51.05595,44.9174917 48.5287,45.0714917 48.5287,45.0714917 M33.0003667,-9.16666667e-05 C14.7752,-9.16666667e-05 0.000366666667,14.773825 0.000366666667,32.9999083 C0.000366666667,51.2259917 14.7752,65.9999083 33.0003667,65.9999083 C51.2255333,65.9999083 66.0003667,51.2259917 66.0003667,32.9999083 C66.0003667,14.773825 51.2255333,-9.16666667e-05 33.0003667,-9.16666667e-05"
+                            id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+    <div class="social__link social__facebook">
+        <a href="https://www.facebook.com/%D0%90%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F-CRAFT-DEPOT-424657824383979/" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="66 65.999725 66 0 0.000275 0 0.000275 65.999725"></polygon>
+                </defs>
+                <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-290.000000, -199.000000)">
+                    <g id="Page-1" transform="translate(290.000000, 199.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M42.7673583,19.4138083 L38.1556083,19.4138083 C36.5266917,19.4138083 36.187525,20.0811417 36.187525,21.7650583 L36.187525,25.8350583 L42.7673583,25.8350583 L42.1339417,32.9795583 L36.187525,32.9795583 L36.187525,54.3213917 L27.665275,54.3213917 L27.665275,33.0693917 L23.2331917,33.0693917 L23.2331917,25.8350583 L27.665275,25.8350583 L27.665275,20.137975 C27.665275,14.7910583 30.525275,11.9988917 36.866775,11.9988917 L42.7673583,11.9988917 L42.7673583,19.4138083 Z M33.000275,-0.000275 C14.7741917,-0.000275 0.000275,14.7736417 0.000275,32.999725 C0.000275,51.2258083 14.7741917,65.999725 33.000275,65.999725 C51.2254417,65.999725 66.000275,51.2258083 66.000275,32.999725 C66.000275,14.7736417 51.2254417,-0.000275 33.000275,-0.000275 Z"
+                            id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+    <div class="social__link social__instagram">
+        <a href="https://www.instagram.com/craftdepot.ru/" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="0.0005 0 66 0 66 65.9998 0.0005 65.9998"></polygon>
+                </defs>
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g>
+                        <path d="M42.0762,25.9653 C40.9502,25.9653 40.0362,25.0513 40.0362,23.9253 C40.0362,22.7983 40.9502,21.8863 42.0762,21.8863 L42.0762,21.8853 C43.2022,21.8853 44.1162,22.7993 44.1162,23.9253 C44.1162,25.0513 43.2022,25.9653 42.0762,25.9653 M33.0022,41.7283 C28.1802,41.7283 24.2712,37.8213 24.2712,33.0003 C24.2712,28.1783 28.1802,24.2703 33.0012,24.2693 L33.0022,24.2693 L33.0012,24.2693 C37.8222,24.2703 41.7302,28.1783 41.7302,33.0003 C41.7302,37.8213 37.8232,41.7283 33.0022,41.7283 M46.2532,22.9733 C45.9442,22.1793 45.5762,21.6133 44.9812,21.0183 C44.3872,20.4233 43.8202,20.0543 43.0272,19.7463 C42.4282,19.5143 41.5282,19.2373 39.8712,19.1613 C38.0782,19.0803 37.5412,19.0633 33.0022,19.0633 C32.4342,19.0633 31.9292,19.0633 31.4762,19.0633 L31.4762,19.0593 C28.3082,19.0633 27.7002,19.0843 26.1322,19.1543 C24.4742,19.2313 23.5742,19.5073 22.9752,19.7413 C22.1812,20.0493 21.6152,20.4183 21.0202,21.0133 C20.4262,21.6083 20.0562,22.1743 19.7482,22.9683 C19.5152,23.5673 19.2382,24.4663 19.1632,26.1243 C19.0812,27.9163 19.0652,28.4523 19.0652,32.9913 C19.0652,37.5313 19.0812,38.0703 19.1632,39.8623 C19.2382,41.5193 19.5152,42.4193 19.7482,43.0173 C20.0562,43.8113 20.4262,44.3773 21.0202,44.9713 C21.6152,45.5663 22.1812,45.9343 22.9752,46.2433 C23.5752,46.4753 24.4742,46.7533 26.1322,46.8293 C27.9242,46.9103 28.4622,46.9283 33.0022,46.9283 C37.5412,46.9283 38.0792,46.9103 39.8712,46.8293 C41.5282,46.7533 42.4292,46.4773 43.0272,46.2433 C43.8212,45.9353 44.3862,45.5663 44.9812,44.9713 C45.5762,44.3773 45.9452,43.8123 46.2532,43.0193 C46.4862,42.4213 46.7632,41.5203 46.8392,39.8633 C46.9202,38.0713 46.9372,37.5333 46.9372,32.9963 C46.9372,28.4593 46.9202,27.9213 46.8392,26.1293 C46.7632,24.4713 46.4862,23.5713 46.2532,22.9733"
+                            id="Fill-1" fill="#000000"></path>
+                        <g id="Group-5">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M49.8975,40.0078 C49.8125,41.8178 49.5255,43.0528 49.1075,44.1348 C48.6715,45.2518 48.0905,46.1998 47.1455,47.1458 C46.2015,48.0908 45.2535,48.6728 44.1355,49.1078 C43.0545,49.5288 41.8175,49.8148 40.0075,49.8978 C38.1945,49.9798 37.6175,49.9998 32.9995,49.9998 C28.3825,49.9998 27.8035,49.9798 25.9905,49.8978 C24.1805,49.8148 22.9455,49.5288 21.8635,49.1078 C20.7465,48.6728 19.7975,48.0908 18.8535,47.1458 C17.9085,46.1998 17.3275,45.2518 16.8925,44.1338 C16.4725,43.0528 16.1855,41.8178 16.1025,40.0078 C16.0205,38.1948 16.0005,37.6168 16.0005,32.9998 C16.0005,28.3828 16.0215,27.8028 16.1025,25.9898 C16.1835,24.1808 16.4705,22.9458 16.8925,21.8638 C17.3285,20.7458 17.9085,19.7978 18.8545,18.8528 C19.7985,17.9078 20.7485,17.3268 21.8665,16.8928 C22.9465,16.4718 24.1815,16.1858 25.9925,16.1028 C27.8045,16.0198 28.3845,15.9998 32.9995,15.9998 L32.9965,15.9998 L33.0015,15.9998 L32.9995,15.9998 C37.6155,15.9998 38.1925,16.0198 40.0045,16.1028 C41.8155,16.1858 43.0505,16.4718 44.1345,16.8928 C45.2535,17.3258 46.2005,17.9068 47.1455,18.8528 C48.0905,19.7978 48.6715,20.7458 49.1075,21.8638 C49.5255,22.9458 49.8125,24.1808 49.8975,25.9898 C49.9785,27.8038 50.0005,28.3828 50.0005,32.9998 C50.0005,37.6168 49.9785,38.1958 49.8975,40.0078 M33.0005,-0.0002 C14.7755,-0.0002 0.0005,14.7738 0.0005,32.9998 C0.0005,51.2268 14.7755,65.9998 33.0005,65.9998 C51.2265,65.9998 66.0005,51.2268 66.0005,32.9998 C66.0005,14.7738 51.2265,-0.0002 33.0005,-0.0002"
+                                id="Fill-3" fill="#000000" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M33.002,27.3335 C29.872,27.3335 27.335,29.8705 27.335,33.0005 C27.335,36.1285 29.872,38.6665 33.002,38.6665 C36.131,38.6665 38.668,36.1285 38.668,33.0005 C38.668,29.8705 36.131,27.3335 33.002,27.3335"
+                            id="Fill-6" fill="#000000"></path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+    <div class="social__link social__telegram">
+        <a href="https://t.me/craftdepot" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="0.000183333333 0 66 0 66 65.9996333 0.000183333333 65.9996333"></polygon>
+                </defs>
+                <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-396.000000, -199.000000)">
+                    <g id="Page-1" transform="translate(396.000000, 199.000000)">
+                        <path d="M24.0799167,34.5057167 C23.7581667,34.70555 23.6105833,35.0988 23.72425,35.4618 L26.1855,43.3946333 C26.23775,43.56055 26.47975,43.53855 26.4999167,43.3643833 L27.0975833,38.0458833 C27.1205,37.84055 27.2195,37.6508 27.3744167,37.5133 L42.91375,23.7724667 C43.2868333,23.4424667 42.85325,22.8622167 42.4325,23.1234667 L24.0799167,34.5057167 Z"
+                            id="Fill-1" fill="#000000"></path>
+                        <g id="Group-5">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M49.4176833,19.6676333 L43.70685,46.97605 C43.4391833,48.25755 41.93585,48.8323 40.87985,48.0586333 L32.25585,41.7272167 L27.8604333,46.2161333 C27.0895167,47.00355 25.7566833,46.6854667 25.42485,45.6331333 L22.2522667,35.5653833 L13.7511,33.05555 C12.6355167,32.7264667 12.5695167,31.1708833 13.6530167,30.7483 L47.1086,17.7114667 C48.38185,17.21555 49.6981833,18.3293 49.4176833,19.6676333 M33.0001833,-0.000366666667 C14.7750167,-0.000366666667 0.000183333333,14.7744667 0.000183333333,32.9996333 C0.000183333333,51.2257167 14.7750167,65.9996333 33.0001833,65.9996333 C51.2262667,65.9996333 66.0001833,51.2257167 66.0001833,32.9996333 C66.0001833,14.7744667 51.2262667,-0.000366666667 33.0001833,-0.000366666667"
+                                id="Fill-3" fill="#000000" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+</div>
+    </form>
+
+
+
+
+
+
+          </div>
+        
+
+
+          
+
+
+
+
+          
+      </div>
+          
+
+<div class="bold-border"></div>
+<div class="read-also">
+    <div class="read-also__title inner-page-title">Читайте также</div>
+    <div class="read-also__items">
+    
+        <div class="read-also__item xl">
+        <a href="/novinki-nedeli-fruktovaya-osen/">
+            <img alt="Stauts" class="read-also__item-image" height="600" src="/media/images/beerxbe.2e16d0ba.fill-600x600.format-jpeg.jpegquality-80.jpg" width="600">
+          </a>
+        <a href="/novinki-nedeli-fruktovaya-osen/">
+            <div class="read-also__item-title">Новинки недели: фруктовая осень</div>
+        </a>
+        </div>
+    
+        <div class="read-also__item xl">
+        <a href="/novinki-nedeli-krepkoe-i-ostroe/">
+            <img alt="Stauts" class="read-also__item-image" height="600" src="/media/images/shutter.2e16d0ba.fill-600x600.format-jpeg.jpegquality-80_aaDkZB2.jpg" width="600">
+          </a>
+        <a href="/novinki-nedeli-krepkoe-i-ostroe/">
+            <div class="read-also__item-title">Новинки недели: крепкое и острое</div>
+        </a>
+        </div>
+    
+        <div class="read-also__item xl">
+        <a href="/novinki-rossijskogo-krafta-za-aprel/">
+            <img alt="Stauts" class="read-also__item-image" height="600" src="/media/images/Novinki.2e16d0ba.fill-600x600.format-jpeg.jpegquality-80_AToZnwV.jpg" width="600">
+          </a>
+        <a href="/novinki-rossijskogo-krafta-za-aprel/">
+            <div class="read-also__item-title">Новинки российского крафта за апрель</div>
+        </a>
+        </div>
+    
+</div>
+</div>
+
+           
+
+        <!-- Блок статей со сторонних ресурсов
+                <div class="read-also__item">
+                    <div class="read-also__item-magazine">Breaking Mad</div>
+                    <div class="read-also__item-title">Омичка пришла в полицию с заявлением о краже, а участковый по ее паспорту купил в кредит телевизор, планшет,
+                        пылесос и весы</div>
+                </div>
+                <div class="read-also__item">
+                    <div class="read-also__item-magazine">Батенька, да вы трансформер</div>
+                    <img src="img/beer/image-3.jpg" alt="" class="read-also__item-image">
+                    <div class="read-also__item-title">КАКОВО РАБОТАТЬ В КОНТАКТНОМ ЗООПАРКЕ</div>
+                    <div class="read-also__item-description">
+                        Кровь, смерть и дерьмо — записали рассказ работников контактного зоопарка
+                    </div>
+                </div>
+                <div class="read-also__item">
+                    <div class="read-also__item-magazine">Breaking Mad</div>
+                    <div class="read-also__item-title">Омичка пришла в полицию с заявлением о краже, а участковый по ее паспорту купил в кредит телевизор, планшет,
+                        пылесос и весы</div>
+                </div>
+                <div class="read-also__item">
+                    <div class="read-also__item-magazine">Батенька, да вы трансформер</div>
+                    <img src="img/beer/image-3.jpg" alt="" class="read-also__item-image">
+                    <div class="read-also__item-title">КАКОВО РАБОТАТЬ В КОНТАКТНОМ ЗООПАРКЕ</div>
+                    <div class="read-also__item-description">
+                        Кровь, смерть и дерьмо — записали рассказ работников контактного зоопарка
+                    </div>
+                </div>
+    -->
+
+
+    <div class="bold-border news-border"></div>
+    <div class="news">
+        <a href="/pages/news_page/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/" class="header__link">
+        <div class="news__title inner-page-title">Новости</div>
+        </a>
+        <div class="news-item__wrapper">
+        
+            <div class="news-item">
+                <div class="news__date">
+                    2 февраля 2021 г. 16:00
+                    
+                </div>
+                <a href="/v-2021-obshepit-vosstanovitsya-chastichno/"><div class="news-item__title">В 2021 году оборот общепита восстановится лишь частично</div></a>
+                <div class="news__icon icon-beer">
+                    <img alt="stats-icon" height="60" src="/media/images/bar-chart_1f4ca.2e16d0ba.original.fill-60x60.png" width="60">
+                </div>
+            </div>
+        
+            <div class="news-item">
+                <div class="news__date">
+                    2 февраля 2021 г. 11:00
+                    
+                </div>
+                <a href="/vyruchka-barov-peterburga-vyrosla-na-50/"><div class="news-item__title">Выручка баров Петербурга благодаря ночной работе выросла на 50%</div></a>
+                <div class="news__icon icon-beer">
+                    <img alt="money-icon" height="60" src="/media/images/money-bag_1f4b0.2e16d0ba.original.fill-60x60.png" width="60">
+                </div>
+            </div>
+        
+            <div class="news-item">
+                <div class="news__date">
+                    1 февраля 2021 г. 19:00
+                    
+                </div>
+                <a href="/rossiya-prisoedinilas-k-isku-iz-za-poshlin-na-import-yachmenya/"><div class="news-item__title">Россия присоединилась к иску Австралии из-за пошлин Китая на импорт ячменя</div></a>
+                <div class="news__icon icon-beer">
+                    <img alt="document-icon" height="60" src="/media/images/court-judge.2e16d0ba.original.fill-60x60.png" width="60">
+                </div>
+            </div>
+        
+            <div class="news-item">
+                <div class="news__date">
+                    1 февраля 2021 г. 12:00
+                    
+                </div>
+                <a href="/obshepitu-dali-rabotat-kruglosutochno/"><div class="news-item__title">В Санкт-Петербурге общепиту разрешили работать круглосуточно</div></a>
+                <div class="news__icon icon-beer">
+                    <img alt="attention-icon" height="60" src="/media/images/heavy-exclamation-mark-symb.2e16d0ba.original.fill-60x60.png" width="60">
+                </div>
+            </div>
+        
+        </div>
+    </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+
+     <footer class="footer" id="footer">
+        <div class="footer__title">Craft Depot</div>
+        <div class="footer__menu">
+            <ul>
+                <li class="footer__menu-list-item">
+                    <a href="/pages/about_association/ALL/">Об ассоциации</a>
+                </li>
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                <li class="footer__menu-list-item">
+                    <a href="/pages/beer/">Пиво</a>
+                </li>
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                <li class="footer__menu-list-item">
+                    <a href="/bars/">Бары</a>
+                </li>
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                <!--
+                <li class="footer__menu-list-item"><a href="/bars/" class="header__link">Бары</a></li>
+                <li class="footer__menu-list-item">
+                    —
+                </li>-->
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/craft-depot-fest/">Craft Depot Fest </a>
+                </li>
+                
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/pena-dnej/">Культура </a>
+                </li>
+                
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/craft-depot-education/">Craft Depot Education </a>
+                </li>
+                
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/foodpairing/">Фудпейринг </a>
+                </li>
+                
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/holivarka/">Люди </a>
+                </li>
+                
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/craftdepotlife/">Craft Depot Life </a>
+                </li>
+                
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/barometr/">Барометр </a>
+                </li>
+                
+                <li class="footer__menu-list-item">
+                    —
+                </li>
+                
+                
+
+                <li class="footer__menu-list-item">
+                    <a href="/podcasts/">Подкасты </a>
+                </li>
+                
+                
+            </ul>
+        </div>
+
+        
+        <!-- MailChimp -->
+<div class="digest">
+    <div class="digest__title">Подписка на дайджест</div>
+    <div class="digest__subtitle">Подписаться на еженедельную рассылку от редакции Craft Depot</div>
+    <div id="mc_embed_signup">
+
+    <div class="digest__form-background">
+    <form action="https://mamihlapinatana.us11.list-manage.com/subscribe/post?u=0535025b10534a34bc11a23dd&amp;id=1c80940d22" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+            <input type="email" placeholder="ваш e-mail" name="EMAIL" class="required email digest__input" id="mce-EMAIL">
+            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button__regular digest__submit">Подписка</button>
+        </div>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0535025b10534a34bc11a23dd_1c80940d22" tabindex="-1" value=""></div>
+    </form>
+    </div>
+
+    <div id="mce-responses" class="clear" style="margin-top: 20px;">
+        <div class="response digest__subtitle" id="mce-error-response" style="display:none"></div>
+        <div class="response digest__subtitle" id="mce-success-response" style="display:none"></div>
+    </div>
+
+    </div>
+
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script type='text/javascript'>
+              (function($) {
+                  window.fnames = new Array();
+                  window.ftypes = new Array();
+                  fnames[0]='EMAIL';
+                  ftypes[0]='email';
+                  fnames[1]='FNAME';
+                  ftypes[1]='text';
+                  fnames[2]='LNAME';
+                  ftypes[2]='text';
+
+                  $.extend($.validator.messages, {
+                    required: "Это поле необходимо заполнить.",
+                    remote: "Пожалуйста, введите правильное значение.",
+                    email: "Пожалуйста, введите корректный адрес электронной почты.",
+                    url: "Пожалуйста, введите корректный URL.",
+                    date: "Пожалуйста, введите корректную дату.",
+                    dateISO: "Пожалуйста, введите корректную дату в формате ISO.",
+                    number: "Пожалуйста, введите число.",
+                    digits: "Пожалуйста, вводите только цифры.",
+                    creditcard: "Пожалуйста, введите правильный номер кредитной карты.",
+                    equalTo: "Пожалуйста, введите такое же значение ещё раз.",
+                    accept: "Пожалуйста, выберите файл с правильным расширением.",
+                    maxlength: $.validator.format("Пожалуйста, введите не больше {0} символов."),
+                    minlength: $.validator.format("Пожалуйста, введите не меньше {0} символов."),
+                    rangelength: $.validator.format("Пожалуйста, введите значение длиной от {0} до {1} символов."),
+                    range: $.validator.format("Пожалуйста, введите число от {0} до {1}."),
+                    max: $.validator.format("Пожалуйста, введите число, меньшее или равное {0}."),
+                    min: $.validator.format("Пожалуйста, введите число, большее или равное {0}.")
+                  });
+              }(jQuery));var $mcj = jQuery.noConflict(true);
+      </script>
+
+</div>
+
+
+    <!--
+    <div class="digest">
+        <div class="digest__title">Подписка на дайджест</div>
+        <div class="digest__subtitle">Подписаться на еженедельную рассылку от редакции Craft Depot</div>
+        <div class="digest__form-background">
+            <form action="#" class="digest__form">
+                <input type="email" placeholder="ваш e-mail" class="digest__input">
+                <button type="submit" class="button__regular digest__submit">Подписка</button>
+            </form>
+        </div>
+    </div> -->
+    <div class="footer__menu footer__submenu">
+        <ul>
+        
+            <li class="footer__menu-list-item">
+                <a href="/contacts/">Контакты</a>
+            </li>
+            
+            <li class="footer__menu-list-item">
+                —
+            </li>
+            
+        
+            <li class="footer__menu-list-item">
+                <a href="/policy/">Политика конфиденциальности</a>
+            </li>
+            
+        
+
+        </ul>
+    </div>
+
+    <div class="footer__social">
+    <div class="social__link social__vk">
+        <a href="https://vk.com/public115168293" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="0.000366666667 0 66 0 66 65.9999083 0.000366666667 65.9999083"></polygon>
+                </defs>
+                <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-608.000000, -199.000000)">
+                    <g id="Page-1" transform="translate(608.000000, 199.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M48.5287,45.0714917 L43.6951167,45.139325 C43.6951167,45.139325 42.65745,45.3446583 41.2907,44.4059917 C39.4830333,43.1657417 37.7780333,39.9372417 36.4452,40.359825 C35.0995333,40.786075 35.1426167,43.690075 35.1426167,43.690075 C35.1426167,43.690075 35.1517833,44.3097417 34.8465333,44.6406583 C34.5110333,44.999075 33.8565333,45.0714917 33.8565333,45.0714917 L31.69595,45.0714917 C31.69595,45.0714917 26.9228667,45.3584083 22.7190333,40.981325 C18.1320333,36.207325 14.0831167,26.7344917 14.0831167,26.7344917 C14.0831167,26.7344917 13.8502833,26.1129917 14.10145,25.8132417 C14.3856167,25.4759083 15.16295,25.4529917 15.16295,25.4529917 L20.3357,25.419075 C20.3357,25.419075 20.82245,25.4997417 21.16895,25.7564083 C21.4622833,25.9681583 21.6208667,26.3641583 21.6208667,26.3641583 C21.6208667,26.3641583 22.4568667,28.477075 23.5642,30.3901583 C25.7247833,34.1246583 26.7322,34.939575 27.4646167,34.5417417 C28.53345,33.9559917 28.2117,29.2626583 28.2117,29.2626583 C28.2117,29.2626583 28.2300333,27.558575 27.6763667,26.799575 C27.2418667,26.211075 26.4278667,26.0396583 26.06945,25.9929083 C25.77795,25.9534917 26.2537,25.2769917 26.8761167,24.9726583 C27.8056167,24.5189083 29.4501167,24.492325 31.3888667,24.5124917 C32.9022833,24.5289917 33.34045,24.6224917 33.9326167,24.7654917 C35.7146167,25.196325 35.1096167,26.8582417 35.1096167,30.8466583 C35.1096167,32.123575 34.88045,33.9202417 35.79895,34.5169917 C36.1977,34.7709083 37.1666167,34.554575 39.58845,30.4396583 C40.7352,28.4889917 41.6005333,26.194575 41.6005333,26.194575 C41.6005333,26.194575 41.7893667,25.7866583 42.07995,25.611575 C42.3778667,25.432825 42.7821167,25.4859917 42.7821167,25.4859917 L48.2262,25.4529917 C48.2262,25.4529917 49.8606167,25.2586583 50.1246167,25.996575 C50.4042,26.7711583 49.5132,28.5806583 47.2902833,31.5451583 C43.6373667,36.4117417 43.2358667,35.9561583 46.2636167,38.7694083 C49.16395,41.4561583 49.76345,42.7651583 49.8606167,42.928325 C51.05595,44.9174917 48.5287,45.0714917 48.5287,45.0714917 M33.0003667,-9.16666667e-05 C14.7752,-9.16666667e-05 0.000366666667,14.773825 0.000366666667,32.9999083 C0.000366666667,51.2259917 14.7752,65.9999083 33.0003667,65.9999083 C51.2255333,65.9999083 66.0003667,51.2259917 66.0003667,32.9999083 C66.0003667,14.773825 51.2255333,-9.16666667e-05 33.0003667,-9.16666667e-05"
+                            id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+    <div class="social__link social__facebook">
+        <a href="https://www.facebook.com/%D0%90%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F-CRAFT-DEPOT-424657824383979/" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="66 65.999725 66 0 0.000275 0 0.000275 65.999725"></polygon>
+                </defs>
+                <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-290.000000, -199.000000)">
+                    <g id="Page-1" transform="translate(290.000000, 199.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M42.7673583,19.4138083 L38.1556083,19.4138083 C36.5266917,19.4138083 36.187525,20.0811417 36.187525,21.7650583 L36.187525,25.8350583 L42.7673583,25.8350583 L42.1339417,32.9795583 L36.187525,32.9795583 L36.187525,54.3213917 L27.665275,54.3213917 L27.665275,33.0693917 L23.2331917,33.0693917 L23.2331917,25.8350583 L27.665275,25.8350583 L27.665275,20.137975 C27.665275,14.7910583 30.525275,11.9988917 36.866775,11.9988917 L42.7673583,11.9988917 L42.7673583,19.4138083 Z M33.000275,-0.000275 C14.7741917,-0.000275 0.000275,14.7736417 0.000275,32.999725 C0.000275,51.2258083 14.7741917,65.999725 33.000275,65.999725 C51.2254417,65.999725 66.000275,51.2258083 66.000275,32.999725 C66.000275,14.7736417 51.2254417,-0.000275 33.000275,-0.000275 Z"
+                            id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+    <div class="social__link social__instagram">
+        <a href="https://www.instagram.com/craftdepot.ru/" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="0.0005 0 66 0 66 65.9998 0.0005 65.9998"></polygon>
+                </defs>
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g>
+                        <path d="M42.0762,25.9653 C40.9502,25.9653 40.0362,25.0513 40.0362,23.9253 C40.0362,22.7983 40.9502,21.8863 42.0762,21.8863 L42.0762,21.8853 C43.2022,21.8853 44.1162,22.7993 44.1162,23.9253 C44.1162,25.0513 43.2022,25.9653 42.0762,25.9653 M33.0022,41.7283 C28.1802,41.7283 24.2712,37.8213 24.2712,33.0003 C24.2712,28.1783 28.1802,24.2703 33.0012,24.2693 L33.0022,24.2693 L33.0012,24.2693 C37.8222,24.2703 41.7302,28.1783 41.7302,33.0003 C41.7302,37.8213 37.8232,41.7283 33.0022,41.7283 M46.2532,22.9733 C45.9442,22.1793 45.5762,21.6133 44.9812,21.0183 C44.3872,20.4233 43.8202,20.0543 43.0272,19.7463 C42.4282,19.5143 41.5282,19.2373 39.8712,19.1613 C38.0782,19.0803 37.5412,19.0633 33.0022,19.0633 C32.4342,19.0633 31.9292,19.0633 31.4762,19.0633 L31.4762,19.0593 C28.3082,19.0633 27.7002,19.0843 26.1322,19.1543 C24.4742,19.2313 23.5742,19.5073 22.9752,19.7413 C22.1812,20.0493 21.6152,20.4183 21.0202,21.0133 C20.4262,21.6083 20.0562,22.1743 19.7482,22.9683 C19.5152,23.5673 19.2382,24.4663 19.1632,26.1243 C19.0812,27.9163 19.0652,28.4523 19.0652,32.9913 C19.0652,37.5313 19.0812,38.0703 19.1632,39.8623 C19.2382,41.5193 19.5152,42.4193 19.7482,43.0173 C20.0562,43.8113 20.4262,44.3773 21.0202,44.9713 C21.6152,45.5663 22.1812,45.9343 22.9752,46.2433 C23.5752,46.4753 24.4742,46.7533 26.1322,46.8293 C27.9242,46.9103 28.4622,46.9283 33.0022,46.9283 C37.5412,46.9283 38.0792,46.9103 39.8712,46.8293 C41.5282,46.7533 42.4292,46.4773 43.0272,46.2433 C43.8212,45.9353 44.3862,45.5663 44.9812,44.9713 C45.5762,44.3773 45.9452,43.8123 46.2532,43.0193 C46.4862,42.4213 46.7632,41.5203 46.8392,39.8633 C46.9202,38.0713 46.9372,37.5333 46.9372,32.9963 C46.9372,28.4593 46.9202,27.9213 46.8392,26.1293 C46.7632,24.4713 46.4862,23.5713 46.2532,22.9733"
+                            id="Fill-1" fill="#000000"></path>
+                        <g id="Group-5">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M49.8975,40.0078 C49.8125,41.8178 49.5255,43.0528 49.1075,44.1348 C48.6715,45.2518 48.0905,46.1998 47.1455,47.1458 C46.2015,48.0908 45.2535,48.6728 44.1355,49.1078 C43.0545,49.5288 41.8175,49.8148 40.0075,49.8978 C38.1945,49.9798 37.6175,49.9998 32.9995,49.9998 C28.3825,49.9998 27.8035,49.9798 25.9905,49.8978 C24.1805,49.8148 22.9455,49.5288 21.8635,49.1078 C20.7465,48.6728 19.7975,48.0908 18.8535,47.1458 C17.9085,46.1998 17.3275,45.2518 16.8925,44.1338 C16.4725,43.0528 16.1855,41.8178 16.1025,40.0078 C16.0205,38.1948 16.0005,37.6168 16.0005,32.9998 C16.0005,28.3828 16.0215,27.8028 16.1025,25.9898 C16.1835,24.1808 16.4705,22.9458 16.8925,21.8638 C17.3285,20.7458 17.9085,19.7978 18.8545,18.8528 C19.7985,17.9078 20.7485,17.3268 21.8665,16.8928 C22.9465,16.4718 24.1815,16.1858 25.9925,16.1028 C27.8045,16.0198 28.3845,15.9998 32.9995,15.9998 L32.9965,15.9998 L33.0015,15.9998 L32.9995,15.9998 C37.6155,15.9998 38.1925,16.0198 40.0045,16.1028 C41.8155,16.1858 43.0505,16.4718 44.1345,16.8928 C45.2535,17.3258 46.2005,17.9068 47.1455,18.8528 C48.0905,19.7978 48.6715,20.7458 49.1075,21.8638 C49.5255,22.9458 49.8125,24.1808 49.8975,25.9898 C49.9785,27.8038 50.0005,28.3828 50.0005,32.9998 C50.0005,37.6168 49.9785,38.1958 49.8975,40.0078 M33.0005,-0.0002 C14.7755,-0.0002 0.0005,14.7738 0.0005,32.9998 C0.0005,51.2268 14.7755,65.9998 33.0005,65.9998 C51.2265,65.9998 66.0005,51.2268 66.0005,32.9998 C66.0005,14.7738 51.2265,-0.0002 33.0005,-0.0002"
+                                id="Fill-3" fill="#000000" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M33.002,27.3335 C29.872,27.3335 27.335,29.8705 27.335,33.0005 C27.335,36.1285 29.872,38.6665 33.002,38.6665 C36.131,38.6665 38.668,36.1285 38.668,33.0005 C38.668,29.8705 36.131,27.3335 33.002,27.3335"
+                            id="Fill-6" fill="#000000"></path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+    <div class="social__link social__telegram">
+        <a href="https://t.me/craftdepot" class="social__link-inner">
+            <svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="path-1" points="0.000183333333 0 66 0 66 65.9996333 0.000183333333 65.9996333"></polygon>
+                </defs>
+                <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-396.000000, -199.000000)">
+                    <g id="Page-1" transform="translate(396.000000, 199.000000)">
+                        <path d="M24.0799167,34.5057167 C23.7581667,34.70555 23.6105833,35.0988 23.72425,35.4618 L26.1855,43.3946333 C26.23775,43.56055 26.47975,43.53855 26.4999167,43.3643833 L27.0975833,38.0458833 C27.1205,37.84055 27.2195,37.6508 27.3744167,37.5133 L42.91375,23.7724667 C43.2868333,23.4424667 42.85325,22.8622167 42.4325,23.1234667 L24.0799167,34.5057167 Z"
+                            id="Fill-1" fill="#000000"></path>
+                        <g id="Group-5">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M49.4176833,19.6676333 L43.70685,46.97605 C43.4391833,48.25755 41.93585,48.8323 40.87985,48.0586333 L32.25585,41.7272167 L27.8604333,46.2161333 C27.0895167,47.00355 25.7566833,46.6854667 25.42485,45.6331333 L22.2522667,35.5653833 L13.7511,33.05555 C12.6355167,32.7264667 12.5695167,31.1708833 13.6530167,30.7483 L47.1086,17.7114667 C48.38185,17.21555 49.6981833,18.3293 49.4176833,19.6676333 M33.0001833,-0.000366666667 C14.7750167,-0.000366666667 0.000183333333,14.7744667 0.000183333333,32.9996333 C0.000183333333,51.2257167 14.7750167,65.9996333 33.0001833,65.9996333 C51.2262667,65.9996333 66.0001833,51.2257167 66.0001833,32.9996333 C66.0001833,14.7744667 51.2262667,-0.000366666667 33.0001833,-0.000366666667"
+                                id="Fill-3" fill="#000000" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </a>
+    </div>
+</div>
+    <div class="disclaimer">
+        18+ ЧРЕЗМЕРНОЕ УПОТРЕБЛЕНИЕ АЛКОГОЛЯ ВРЕДИТ ВАШЕМУ ЗДОРОВЬЮ
+    </div>
+
+
+    </footer>
+    </div>
+    <div class="modal__age">
+        <div class="modal__age-title">18+</div>
+        <p class="modal__age-description">Страница, которую Вы собираетесь посмотреть, содержит материалы для взрослых, просмотреть его можно только по  достижении 18 лет.</p>
+        <div class="modal__age-buttons">
+            <div id="modal__age-good" class="modal__age-button button__regular button__loadmore">Мне есть 18</div>
+            <a href="https://craftdepot.ru/otvetstvennost/" id="modal__age-bad" class="modal__age-button button__regular button__loadmore">Мне нет 18</a>
+        </div>
+    </div>
+    </div>
+
+    <script src="/static/js/vendor.6d282dadd035.js"></script>
+    <script src="/static/js/site.555f352d3acc.js"></script>
+    
+
+    <script type="text/javascript">
+        (function(){ require(['site']); }());
+    </script>
+</body>
+</html>
